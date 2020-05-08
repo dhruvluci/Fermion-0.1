@@ -59,11 +59,10 @@ Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
 need to have [Metamask](http://metamask.io) installed and listening to
 `localhost 8545`.
 
-Using Fermi:
-
-To try Fermi out, send some Fermi to another wallet! You'll notice that the reciever gets some more Fermi than sent, based on the CLR rule.
-
 ## User Guide
+
+To try Fermi out, send some Fermi to another MetaMask wallet (Eth Address)! You'll notice that the reciever gets some more Fermi than sent, based on the CLR rule.
+
 
 - [Setting up Metamask](http://buidler.dev/tutorial/8-frontend/#setting-up-metamask)
 - [Buidler's full documentation](https://buidler.dev/getting-started/)
