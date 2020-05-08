@@ -2,7 +2,7 @@
 
 A Fermi is a decentralised, social credit scoring unit. It seeks to be an alternative to centralised credit scores that exclude a majority of the population from access to fair credit. In times like the covid-19 crisis, it seeks to leverage the blockchain to enable 70% of the world to have access to credit. 
 
-The practical consstraints of reputation baased systems is the need for bredath of reputation over depth (i.e. more sources to verify each user), as well as ongoing mutual incentives to encourage accurate reputation. We solve these by creating the Fermi Rep token, which is minted based on the CLR formula for public goods.
+The practical constraints of reputation based systems is the need for breadth of reputation over depth (i.e. more sources to verify each user), as well as ongoing mutual incentives to encourage accurate reputation. We solve these by creating the Fermi Rep token, which is minted based on the CLR formula for public goods.
 
 Fundamentally, a Fermi is different from money. Sending Fermi has a unique impact: it creates a permanent link between your Fermi Score and the reciever's Fermi Score. This way, people will be incentivised to build up networks of trusted contacts globally, in a decentraalised way. Credit can then effectively be provided to millions of such people at low risk.
 
