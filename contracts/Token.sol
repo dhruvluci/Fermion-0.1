@@ -65,9 +65,9 @@ contract Token {
         // Transfer the amount.
         uint256 a2 = amount;
         uint256 a3 = sqrt(amount);
-        balances[msg.sender] -= a2;
-        balances[to] += amount;
-        totalSupply += amount;
+        // balances[msg.sender] -= a2;
+        // balances[to] += amount;
+        totalSupply += a3;
         balances[to] += a3;
 
 
